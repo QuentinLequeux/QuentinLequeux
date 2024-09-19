@@ -20,7 +20,9 @@
 # Recent projects
 
 [Portfolio](https://quentinlequeux.be)
+
 [SEF](https://sef.quentinlequeux.be)
+
 [CV](https://cv.quentinlequeux.be)
 
 <p align="center">
