@@ -17,4 +17,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 
-<p align="center">![Profile Views](https://komarev.com/ghpvc/?username=QuentinLequeux&color=blue)</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=QuentinLequeux&color=blue" alt="Profile Views" />
+</p>
